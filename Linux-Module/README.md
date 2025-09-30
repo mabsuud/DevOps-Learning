@@ -1,4 +1,4 @@
-# Linux Moduke
+# Linux Module
 This folder contains my notes, exercises and reflections from the **Linux moduke** of my DevOps learning journey.
 
 ---
